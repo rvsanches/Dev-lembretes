@@ -2,4 +2,5 @@
  Arquivos e códigos para começar os projetos
 
  ### Angular
- ng new project-name --prefix project-prefix
+ Início de um novo projeto com prefixo definido
+ `ng new project-name --prefix project-prefix`
