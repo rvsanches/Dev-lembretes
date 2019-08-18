@@ -3,4 +3,4 @@
 
  ### Angular
  Início de um novo projeto com prefixo definido
- `ng new project-name --prefix project-prefix`
+     ng new project-name --prefix project-prefix
