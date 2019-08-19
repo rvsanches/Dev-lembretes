@@ -12,4 +12,5 @@ Projeto em Angular com PrimeNg
 ```
 npm install primeng --save
 npm install primeicons --save
+npm install primeflex --save
 ```
