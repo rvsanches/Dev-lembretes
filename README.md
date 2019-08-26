@@ -32,3 +32,13 @@ Rodar a API fake
 ```
 json-server --watch db.json
 ```
+
+### Laravel
+Geração de controlador, model e mogração
+```
+php artisan make:model Name -mrc
+```
+Iniciar o servidor Laravel
+```
+php artisan serve
+```
